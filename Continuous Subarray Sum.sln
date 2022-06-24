@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32413.511
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Continuous Subarray Sum", "Continuous Subarray Sum\Continuous Subarray Sum.csproj", "{7766B1BD-487E-41DF-9FFA-C5124A3C5D3C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7766B1BD-487E-41DF-9FFA-C5124A3C5D3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7766B1BD-487E-41DF-9FFA-C5124A3C5D3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7766B1BD-487E-41DF-9FFA-C5124A3C5D3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7766B1BD-487E-41DF-9FFA-C5124A3C5D3C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F842A97F-DB3A-4584-8830-3E74768B005C}
+	EndGlobalSection
+EndGlobal
